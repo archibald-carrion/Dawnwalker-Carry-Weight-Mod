@@ -1,0 +1,4 @@
+# Local save backups - never publish
+saves-backup-*/
+*.sav
+*.meta
